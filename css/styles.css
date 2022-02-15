@@ -1,0 +1,91 @@
+a:hover{
+   color: purple;
+   text-decoration: none;
+
+}
+
+
+.monuments{
+  text-align: center;
+    margin: 3rem auto;
+    font-weight: normal;
+    font-size: 3rem;
+}
+h1{
+  text-align: center;
+  margin: 1rem auto;
+
+}
+h3{
+  color: #32542e;
+  font-weight: bold;
+
+}
+h3:hover{
+  color: #76a37a;
+}
+section {
+  padding: 10px 0 0 10px;
+  background-color: #edffef;
+
+}
+
+div {
+  padding-left: 1rem;
+}
+
+img {
+  width: 507px;
+  height: 340;
+  margin:0 0  2rem;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 4%;
+  border-width: 5px;
+  margin: 2rem auto;
+}
+
+/* navbar */
+nav {
+  background-color: #4b6b4f;
+  position: sticky;
+}
+
+
+.navbar-brand{
+  color: #fff;
+  font-size: 1.5rem;
+}
+.nav-link{
+  color: #fff;
+  margin: 0 2rem;
+}
+
+/* button */
+.btn {
+  border-color: #fff;
+  color: #fff;
+}
+
+body{
+font-family: 'Montserrat', sans-serif;
+}
+
+.p1{
+  padding: 2rem 10% ;
+}
+.bottom{
+  background-color: #4b6b4f;
+  padding: 2.5rem 0;
+  text-align: center;
+}
+.footer{
+  margin: 1rem;
+  color: #fff;
+}
+.footer:hover{
+  color: #76a37a;
+  text-decoration: none;
+}
